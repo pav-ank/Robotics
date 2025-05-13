@@ -1,5 +1,5 @@
 # My First Arduino Project - LED Morse Code
-Welcome to my first ever Arduino project! In this project, I am diving into the world of robotics and electronics. As part of my journey, I created a simple LED blink that experiments with SOS Morse code.
+Welcome to my first ever Arduino project! In this project, I am diving into the world of robotics and electronics. As part of my journey, I created a simple LED blink that experiments with SOS Morse code. [Here is the video of LED blinking](https://drive.google.com/drive/folders/1ReyazVXVVsQkUfTEuOfLWdxdhX8oMn6c?usp=sharing)
 
 ## Project Overview
 This project demonstrates how to use an Arduino to blink an LED in Morse code. Specifically, the message being sent is SOS (the international distress signal), which is a combination of dots and dashes.
