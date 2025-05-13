@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to control an LED using a push button and an Arduino board. When the button is pressed, the LED turns on. When the button is released, the LED turns off. This is a basic example of digital input and output with an understanding of internal pull-up resistors.
+This project demonstrates how to control an LED using a push button and an Arduino board. When the button is pressed, the LED turns on. When the button is released, the LED turns off. This is a basic example of digital input and output with an understanding of internal pull-up resistors.[Here is the video](https://drive.google.com/drive/folders/1qkUNIf6PPHUBSn9SZtYqIwVon3msBEQm?usp=sharing)
 
 This is my **second Arduino project**, and it builds upon the fundamentals of digital pin control learned in the first project.
 
