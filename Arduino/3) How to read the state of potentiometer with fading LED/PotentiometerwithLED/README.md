@@ -4,7 +4,7 @@
 
 This Arduino project demonstrates how to control the brightness of an LED using a potentiometer. By reading the analog input from the potentiometer, the code maps the input values to a PWM output signal which adjusts the brightness of an LED in real-time.
 
-This is my **third project** in my Arduino learning journey, and it focuses on analog-to-digital conversion and PWM signal output.
+This is my **third project** in my Arduino learning journey, and it focuses on analog-to-digital conversion and PWM signal output.[Video link](https://drive.google.com/drive/folders/1ipZP2vB1RNWuVPTSW-4oNtbPT-bue5Md?usp=sharing)
 
 ---
 
@@ -13,7 +13,7 @@ This is my **third project** in my Arduino learning journey, and it focuses on a
 - Arduino Uno (or compatible board)
 - LED
 - 220Ω resistor (for current limiting)
-- Potentiometer (10kΩ recommended)
+- Potentiometer (5kΩ)
 - Breadboard
 - Jumper wires
 
