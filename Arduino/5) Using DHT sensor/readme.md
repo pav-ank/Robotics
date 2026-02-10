@@ -32,6 +32,5 @@ The DHT22 sensor has **3 pins**:
 | -ve (right) | Arduino GND    | Common ground                              |
 | Pull-up resistor (10kΩ) | Between DATA (middle) and +ve (left) | Keeps the DATA line HIGH when idle, ensuring stable readings |
 
-> **Important:** The pull-up resistor must be connected to **VCC (+ve)** and **not GND (-ve)**. Incorrect placement can cause unstable or incorrect sensor readings.
-
+> **Important:** The pull-up resistor must be connected to **VCC (+ve)** and **not GND (-ve)**. Incorrect placement can cause unstable or incorrect sensor readings. Trust me, I got a little scared when I saw the temperature was way off xD.
 ---
